@@ -5,4 +5,4 @@ roles:
 
 collections:
   - name: geerlingguy.mac
-  - name: community.general.onepassword 
+  - name: community.general 
